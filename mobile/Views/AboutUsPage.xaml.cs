@@ -14,7 +14,7 @@ namespace mobile
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class AboutUsPage : ContentPage
     {
-        
+        //comm
         public AboutUsPage()
         {
             InitializeComponent();
